@@ -1,4 +1,4 @@
-# JARVIS
+# JARVIS - AI AGENT
 
 This project is a Python-based voice-controlled virtual assistant that can understand user voice commands and perform tasks automatically. The system uses speech recognition to convert spoken input into text and text-to-speech (TTS) technology to respond back to the user.
 
